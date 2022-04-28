@@ -4,9 +4,8 @@
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-## Header2
+## Me
 I am a Project Management Consultant currently working for Aritha Consulting.
 
 ## My Skills
