@@ -8,6 +8,8 @@ I am a Project Management Consultant currently working for Aritha Consulting.
 - Project Management including tracking,reporting, quality, people, issue, scope,schedule, risk, financials etc
 - Presales
 - Requirement gathering and analysis
+- Training the end users
+- Change impact analysis
 
 ## My Education
 
