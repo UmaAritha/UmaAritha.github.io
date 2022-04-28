@@ -6,7 +6,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-## Welcome to My Space
+## Header2
 I am a Project Management Consultant currently working for Aritha Consulting.
 
 ## My Skills
