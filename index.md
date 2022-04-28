@@ -1,7 +1,7 @@
  ![Uma A](20201228_181659.jpg)
 
 ### Hello
-Visit me on [UmaA](https://www.linkedin.com/in/uma-arakalagudu-10652677/) 
+Visit me on [Uma Arakalagudu](https://www.linkedin.com/in/uma-arakalagudu-10652677/) 
 
 ```markdown
 
