@@ -3,8 +3,6 @@
 ### Hello
 Visit me on [Uma Arakalagudu](https://www.linkedin.com/in/uma-arakalagudu-10652677/) 
 
-```markdown
-
 ## Me
 I am a Project Management Consultant currently working for Aritha Consulting.
 
