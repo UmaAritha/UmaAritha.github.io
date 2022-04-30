@@ -28,6 +28,6 @@ Before this, I was working with Infosys Ltd as a Senior Project Manager in my la
 I started as a software developer for Oracle Apps ERP solution, moved on to specialise in Oracle HR as a funcational consultant, 
 and then got certified as SAP HR functional consultant.
 
-I moved on to manage SAP HR projects including Implementation, Maintenance and roll outs.
+I moved on to manage SAP HR projects including Implementation, Maintenance and Roll-Outs.
 
 
